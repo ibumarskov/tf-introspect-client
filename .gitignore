@@ -1,0 +1,16 @@
+*.pyc
+
+# virtualenv
+.venv/
+
+# Unit test / coverage reports
+.tox/
+
+# PyCharm folder
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
